@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e3c76221.css",
+    "main.js": "./static/js/main.150e5d83.js",
+    "static/media/neoBackGround.jpg": "./static/media/neoBackGround.7f676866016504498fd1.jpg",
+    "static/media/MediumItalic.ttf": "./static/media/MediumItalic.82736aaa11c64709055f.ttf",
+    "static/media/BoldItalic.ttf": "./static/media/BoldItalic.87d61cea6fe1d235d4a8.ttf",
+    "static/media/Medium.ttf": "./static/media/Medium.7c8d04cd831df3033c8a.ttf",
+    "static/media/Bold.ttf": "./static/media/Bold.f80816a5455d171f948d.ttf",
+    "static/media/OpenSans-MediumItalic.ttf": "./static/media/OpenSans-MediumItalic.00b0286ec1643a480c09.ttf",
+    "static/media/OpenSans-BoldItalic.ttf": "./static/media/OpenSans-BoldItalic.de2cc75522f7b31c7536.ttf",
+    "static/media/OpenSans-Medium.ttf": "./static/media/OpenSans-Medium.65529e6c75fe516f596a.ttf",
+    "static/media/OpenSans-Bold.ttf": "./static/media/OpenSans-Bold.a0fe34bea92d4e1a84d6.ttf",
+    "static/media/logo.png": "./static/media/logo.83998045f731773e71b8.png",
+    "static/media/logo-app.png": "./static/media/logo-app.ec7d41c4c69a0f2b8269.png",
+    "static/media/logo-app-lite.png": "./static/media/logo-app-lite.9770cf8371e07b352bce.png",
+    "index.html": "./index.html",
+    "main.e3c76221.css.map": "./static/css/main.e3c76221.css.map",
+    "main.150e5d83.js.map": "./static/js/main.150e5d83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3c76221.css",
+    "static/js/main.150e5d83.js"
+  ]
+}
